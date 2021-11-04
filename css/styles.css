@@ -153,3 +153,29 @@ a:hover {
 }
 
 /*Extra stuff */
+.project-container{
+  font-size:20px;
+  font: bold;
+  background-color:#EDCFA9;
+}
+
+.student{
+  height: 150px;
+  width: 200px;
+  position: absolute;
+  left: 300px;
+  bottom: 500px;
+}
+
+.intro-container{
+  background-color:#EDCFA9;
+  padding:100px 0;
+}
+
+.laf{
+  text-align: left;
+  width: 50%;
+  margin: 100px auto;
+}
+
+
