@@ -162,7 +162,6 @@ a:hover {
 .student{
   height: 150px;
   width: 200px;
-  position: absolute;
   left: 300px;
   bottom: 500px;
 }
